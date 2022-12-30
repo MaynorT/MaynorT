@@ -7,8 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/MaynorT/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MaynorT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Network File Shares and Permissions](https://github.com/MaynorT/Network-File-Shares-and-Permissions)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MaynorT/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MaynorT/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//azure-network-protocols)
   - [Building Intuition for DNS](https://github.com/MaynorT/Building-Intuition-for-DNS)
 
 
