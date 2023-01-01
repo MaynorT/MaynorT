@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Network File Shares and  Permissions](https://github.com/MaynorT/Network-File-Shares-and-Permissions)
   - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/MaynorT/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MaynorT/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   - [Building Intuition for DNS](https://github.com/MaynorT/Building-Intuition-for-DNS)
 
 
